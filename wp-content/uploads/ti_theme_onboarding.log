@@ -1,0 +1,20 @@
+[27/Jun/2019:13:15:36] (ℹ️): WordPress Instance Info:
+[27/Jun/2019:13:15:36] (ℹ️): Home URL : http://wordpress
+[27/Jun/2019:13:15:36] (ℹ️): Site URL : http://wordpress
+[27/Jun/2019:13:15:36] (ℹ️): WordPress Version : 5.2.2
+[27/Jun/2019:13:15:36] (ℹ️): Onboarding Version : 1.3.6
+[27/Jun/2019:13:15:36] (ℹ️): Multisite : No
+[27/Jun/2019:13:15:36] (ℹ️): Server Info : Apache
+[27/Jun/2019:13:15:36] (ℹ️): PHP Version : 5.6.38
+[27/Jun/2019:13:15:36] (ℹ️): HTTPS : No
+[27/Jun/2019:13:15:36] (ℹ️): PHP Max Execution Time : 180
+[27/Jun/2019:13:15:36] (ℹ️): PHP Max Input Vars : 1000
+[27/Jun/2019:13:15:36] (ℹ️): Max Upload Size : 104857600
+[27/Jun/2019:13:15:36] (ℹ️): Plugins:
+[27/Jun/2019:13:15:36] (ℹ️): [PLUGIN] Contact Form 7 : v5.1.3 (Takayuki Miyoshi)
+[27/Jun/2019:13:15:36] (ℹ️): [PLUGIN] Elementor : v2.5.16 (Elementor.com)
+[27/Jun/2019:13:15:36] (ℹ️): [PLUGIN] Ocean Extra : v1.5.5 (OceanWP)
+[27/Jun/2019:13:15:36] (ℹ️): [PLUGIN] Post Grid by PickPlugins : v2.0.33 (PickPlugins)
+[27/Jun/2019:13:15:36] (ℹ️): [PLUGIN] Smart Slider 3 : v3.3.18 (Nextend)
+[27/Jun/2019:13:15:36] (ℹ️): [PLUGIN] WP Contact Slider : v2.4.1 (wpexpertsio)
+[27/Jun/2019:13:15:36] (ℹ️): [PLUGIN] WPForms Lite : v1.5.2.3 (WPForms)
